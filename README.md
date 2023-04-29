@@ -16,7 +16,7 @@ I'm a computer science student at the Chinese University of Hong Kong. I'm inter
 
 ## Contact Me
 
-- Email: example@example.com
+- Email: 1155176906@link.cuhk.edu.hk
 - LinkedIn: https://www.linkedin.com/in/jingyou-wang-a5aa71266
 
 <!--
